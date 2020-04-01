@@ -4,9 +4,9 @@
     <tag language="Türkçe"/>
   </tags>
   <strings>
-    <string id="1VOXUsST" text="Настроить символ вашего баннера "/>
+    <string id="1VOXUsST" text="Настройка символа вашего баннера"/>
     <string id="3CpNUnVl" text="Отменить"/>
-    <string id="Eg3m6vUS" text="Настройте свой персональный баннер, выбрав символ вашего клана "/>
-    <string id="WiNRdfsm" text="Выполнить"/>
+    <string id="Eg3m6vUS" text="Настройте свой личный баннер, выбрав символ вашего клана"/>
+    <string id="WiNRdfsm" text="Готово"/>
   </strings>
 </base>
